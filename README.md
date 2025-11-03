@@ -4,9 +4,9 @@
 飞书文档每天可能更新，依照哔哩哔哩数字收藏周边的[动态页面](https://space.bilibili.com/1425239276/dynamic)每天更新情况。
 
 #### 待实现的功能：
-- 每天自动运行
 - 购买低功耗的小型Windows设备
 - 新注册一个专门运行的RPA账号
+- 每天自动运行
 
 #### 鸣谢：
 - [bilibili-API-Collect](https://github.com/SocialSisterYi/bilibili-API-collect)
