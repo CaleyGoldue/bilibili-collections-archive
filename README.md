@@ -8,10 +8,10 @@
 ![Image](https://github.com/user-attachments/assets/84fc2c8f-59a8-4a36-9f13-f31062ac8bab)
 ![Image](https://github.com/user-attachments/assets/686fef55-30d6-4287-ac53-d7f3f987c995)
 #### 待实现的功能与需求：
-- 购买低功耗的小型Windows设备
-- 新注册一个专门运行的RPA账号
-- 每天自动运行
-- 申请OneDrive中国版账号
+- 购买专门运行的低功耗小型设备
+- 新注册一个专门运行的影刀RPA账号
+- 每天自动运行，无需手都触发
+- 申请OneDrive中国版账号，使备份文件在中国大陆正常访问
 #### 鸣谢：
 - [bilibili-API-Collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [Collection-Down](https://github.com/heartalborada-del/Collection-Down)
