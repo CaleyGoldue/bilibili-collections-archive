@@ -5,7 +5,7 @@
 表格使用方法请看中最后一张[sheet表](https://wvu1yssu8zz.feishu.cn/sheets/ZyXwsKaC6hTlRjtdJ8LcTPion7c?sheet=NuUsPA)。
 #### 项目诞生的原因：
 因有部分收藏集，奖池或者奖励有时限，通过接口再次获得所需的文件，建议配合[Collection-Down](https://github.com/heartalborada-del/Collection-Down)使用更佳。<br>
-![Image](https://github.com/user-attachments/assets/84fc2c8f-59a8-4a36-9f13-f31062ac8bab)
+![Image](https://github.com/user-attachments/assets/84fc2c8f-59a8-4a36-9f13-f31062ac8bab)<br>
 ![Image](https://github.com/user-attachments/assets/686fef55-30d6-4287-ac53-d7f3f987c995)
 #### 待实现的功能与需求：
 - 购买专门运行的低功耗小型设备
