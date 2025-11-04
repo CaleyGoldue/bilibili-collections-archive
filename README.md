@@ -4,7 +4,7 @@
 每过半个月，即2周发一次版。<br>
 会导出Excel文件备份到[Google Drive个人版](https://docs.google.com/spreadsheets/d/1QUEB8C-XdE730gA903xpqncibuOsHwfm)和OneDrive国际个人版，频率与项目发版次数差不多。
 ### 项目诞生的原因：
-因有部分收藏集，奖池或者奖励有时限，甚至卡面有数量限制，达到条件时未登录或者未获取的用户无法查看，甚至从正常接口都拉取不到；通过官方另外的接口请求可获得相关信息，若要批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳，当前该项目可能尚未支持，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
+因有部分收藏集，奖池或者奖励有时限，甚至卡面有数量限制；达到条件后只有获取过的用户可以查看到，未登录或者未获取的用户无法查看，甚至从正常接口都拉取不到；好在通过官方另外的接口请求可获得相关信息，若要与其他类目一同批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳，当前该项目可能尚未支持，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
 ![Image](https://github.com/user-attachments/assets/84fc2c8f-59a8-4a36-9f13-f31062ac8bab)  
 ![Image](https://github.com/user-attachments/assets/686fef55-30d6-4287-ac53-d7f3f987c995)
 ### 待实现的功能与需求：
