@@ -8,6 +8,7 @@
 ![Image](https://github.com/user-attachments/assets/686fef55-30d6-4287-ac53-d7f3f987c995)<br><br>
 好在通过官方另外的接口请求可获得相关信息，若要与其他类目一同批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳，当前该项目可能尚未支持，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
 ### 待实现的功能与需求：
+- 导出并上传CSV表
 - 购买专门运行的低功耗小型设备
 - 新注册一个专门运行的影刀RPA账号
 - 每天自动运行，无需手动触发
