@@ -10,3 +10,5 @@
 当前该项目可能尚未支持我用的接口，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
 ### 如何新增：
 若没有你想要的收藏集，请用邮箱联系需要新增的act_id，有条件的建议用GMail，其他邮箱容易被放入垃圾箱。
+### 注意
+若有视频格式为mkv，代表原文件大于25MB，是个人将视频部分压制成HEVC 10bit的版本。
