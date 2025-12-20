@@ -8,7 +8,10 @@
 ![Image](https://raw.githubusercontent.com/CloudyEagle/bilibili-collections-archive/refs/heads/cards/README_PICTURES_HIDE/2.png)<br><br>
 好在通过官方另外的接口请求可获得相关信息，若要与其他类目一同批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳；<br>
 当前该项目可能尚未支持我用的接口，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
-### 如何新增：
-若没有你想要的内容，请用邮箱联系，有条件的建议用GMail，其他邮箱容易被放入垃圾箱。
-### 注意
-若有视频格式为mkv，代表原文件大于25MB，是个人将视频部分压制成HEVC 10bit的版本。
+### 新增规则/如何新增：
+- 无条件上传无需账号鉴权卡面中的所有内容，封面图和视频<br>
+- 若没有你想要的内容，请用邮箱联系，有条件的建议用GMail，其他邮箱容易被放入垃圾箱。
+#### 注意
+若有视频格式为mkv，代表原文件大于25MB，是个人将视频部分压制成HEVC 10bit，未对音频流进行压缩的版本。<br>
+因为除了音声的音频流是大于200Kbps的，其他基本都是小于200Kbps的；<br>
+且mkv文件是针对25MiB极限压缩，若视频实在很模糊，我也爱莫能助。
