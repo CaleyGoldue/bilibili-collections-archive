@@ -6,7 +6,6 @@
 因有部分收藏集，奖池或者兑换物有时限，甚至卡面有数量限制；达到条件后只有获取过的用户可以查看到，未登录或者未获取的用户无法查看，甚至从正常接口都拉取不到。<br><br> 
 ![Image](https://raw.githubusercontent.com/CloudyEagle/bilibili-collections-archive/refs/heads/cards/README_PICTURES_HIDE/1.png)  
 ![Image](https://raw.githubusercontent.com/CloudyEagle/bilibili-collections-archive/refs/heads/cards/README_PICTURES_HIDE/2.png)<br><br>
-好在通过官方另外的接口请求可获得相关信息，若要与其他类目一同批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳；<br>
-当前该项目可能尚未支持我用的接口，已向该项目提出[改进意见](https://github.com/heartalborada-del/Collection-Down/issues/2)，请静候佳音。
+好在通过官方另外的接口请求可获得相关信息，若要与其他类目一同批量下载使用建议使用[Collection-Down](https://github.com/heartalborada-del/Collection-Down)更佳。
 ### 如何新增：
 若没有你想要的内容，请用邮箱联系，有条件的建议用GMail，其他邮箱容易被放入垃圾箱。
