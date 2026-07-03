@@ -9,7 +9,6 @@
 - 新注册一个专门运行的影刀RPA账号
 - 自动导出Excel文件向网盘备份
 - 自动导出csv文件向Github上传备份
-- 申请OneDrive中国版账号，使备份Excel文件在中国大陆能正常访问
 - 所有操作自动运行，无需任何手动操作
 ### 鸣谢：
 - [bilibili-API-Collect](https://github.com/SocialSisterYi/bilibili-API-collect)
